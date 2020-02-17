@@ -119,7 +119,7 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 
-DEBUG = Falsegit
+DEBUG = False
 
 try:
     from .local_settings import *
